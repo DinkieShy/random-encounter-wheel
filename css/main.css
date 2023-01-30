@@ -1,0 +1,92 @@
+#titleArea{
+	width: 100vw;
+	box-sizing: border-box;
+	text-align: center;
+	background-color: darkgrey;
+	padding-top: 1vh;
+	height: 15vh;
+}
+
+h1{
+	color: white;
+	margin-bottom: 0;
+}
+
+h2{
+	margin-top: 0;
+	color: white;
+}
+
+#contentOverlay{
+	background-color: white;
+}
+
+#resultsList{
+	background-color: white;
+	width: 22.5vw;
+	top: 50%;
+	transform: translate(0, -50%);
+	right: 2.5vw;
+	position: absolute;
+	box-sizing: border-box;
+	text-align: center;
+	z-index: 2;
+	border-radius: 2.25vw;
+}
+
+h3{
+	font-size: 2.25vw;	
+	margin: 0;
+	margin-bottom: 0.1vh;
+}
+
+#outcomeArea{
+	position: absolute;
+	background-color: white;
+	width: 67.5vw;
+	height: 75vh;
+	left: 2.5vw;
+	top: 20vh;
+	z-index: 2;
+	display: flex;
+	border-radius: 80px;
+	text-align: center;
+
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.outcome{
+	vertical-align: middle;
+	font-size: 4.5vw;	
+	margin: 0;
+}
+
+#wheel{
+	z-index: 1;
+}
+
+#instructionText{
+	position: relative;
+	bottom: 2.5%;
+}
+
+.canvasHolder{
+	width: 100vw;
+	height: 85vh;
+	box-sizing: border-box;
+	background-color: lightgrey;
+	position: absolute;
+}
+
+html{
+	font-family: monospace;
+}
+
+body{
+	margin: 0px;
+	height: 100vh;
+	width: 100vw;
+	background-color: #505060;
+}
