@@ -1,3 +1,3 @@
-# Waffle-s-Wacky-Wequest-Wheel
+# random-encounter-wheel
 
-https://dinkieshy.github.io/Waffle-s-Wacky-Wequest-Wheel/
+https://dinkieshy.github.io/random-encounter-wheel/
